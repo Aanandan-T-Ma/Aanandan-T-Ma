@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aanandan-t-ma&theme=algolia&show_icons=true&locale=en" alt="aanandan-t-ma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aanandan-t-ma&theme=algolia" alt="aanandan-t-ma" /></p>
+
+![GitHub metrics](https://metrics.lecoq.io/Aanandan-T-Ma)
