@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖐, I'm Aanandan</h1>
-<h3 align="center">A Self-motivated and Passionate Web Developer😎 who loves to learn new skills and stuff</h3>
+<h3 align="center">A Passionate Web Developer😎 who loves to learn new skills and stuff</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aanandan t ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanandan t ma" height="30" width="40" /></a>
